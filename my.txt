@@ -4,5 +4,5 @@ my my my my my
 
 you
 
-
+This line is testing mergetool to fix merge conflict.
 new ssh key
