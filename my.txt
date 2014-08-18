@@ -9,3 +9,6 @@ This line is testing mergetool to fix merge conflict.
 new ssh key
 
 merge conflict had been solved
+
+
+local branch auto push the one remote branch
